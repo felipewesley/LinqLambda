@@ -1,0 +1,13 @@
+C:\workspace\WorkerContract\WorkerContract\bin\Debug\netcoreapp3.1\WorkerContract.exe
+C:\workspace\WorkerContract\WorkerContract\bin\Debug\netcoreapp3.1\WorkerContract.deps.json
+C:\workspace\WorkerContract\WorkerContract\bin\Debug\netcoreapp3.1\WorkerContract.runtimeconfig.json
+C:\workspace\WorkerContract\WorkerContract\bin\Debug\netcoreapp3.1\WorkerContract.runtimeconfig.dev.json
+C:\workspace\WorkerContract\WorkerContract\bin\Debug\netcoreapp3.1\WorkerContract.dll
+C:\workspace\WorkerContract\WorkerContract\bin\Debug\netcoreapp3.1\WorkerContract.pdb
+C:\workspace\WorkerContract\WorkerContract\obj\Debug\netcoreapp3.1\WorkerContract.csprojAssemblyReference.cache
+C:\workspace\WorkerContract\WorkerContract\obj\Debug\netcoreapp3.1\WorkerContract.AssemblyInfoInputs.cache
+C:\workspace\WorkerContract\WorkerContract\obj\Debug\netcoreapp3.1\WorkerContract.AssemblyInfo.cs
+C:\workspace\WorkerContract\WorkerContract\obj\Debug\netcoreapp3.1\WorkerContract.csproj.CoreCompileInputs.cache
+C:\workspace\WorkerContract\WorkerContract\obj\Debug\netcoreapp3.1\WorkerContract.dll
+C:\workspace\WorkerContract\WorkerContract\obj\Debug\netcoreapp3.1\WorkerContract.pdb
+C:\workspace\WorkerContract\WorkerContract\obj\Debug\netcoreapp3.1\WorkerContract.genruntimeconfig.cache
