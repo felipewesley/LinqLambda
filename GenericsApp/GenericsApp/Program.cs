@@ -26,5 +26,6 @@ namespace GenericsApp
 
             Console.WriteLine("Max value: " + calculationService.Max(list));
         }
+
     }
 }

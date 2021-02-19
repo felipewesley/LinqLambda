@@ -22,6 +22,7 @@ namespace GenericsApp.Entities
             Price = double.Parse(s[1], CultureInfo.InvariantCulture);
         }
 
+
         public int CompareTo(object obj)
         {
             if (!(obj is Product))

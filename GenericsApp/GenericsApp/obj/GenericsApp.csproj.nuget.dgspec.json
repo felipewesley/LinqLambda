@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\GenericsApp\\GenericsApp\\GenericsApp.csproj": {}
+    "C:\\workspace\\learningCSharp\\GenericsApp\\GenericsApp\\GenericsApp.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\GenericsApp\\GenericsApp\\GenericsApp.csproj": {
+    "C:\\workspace\\learningCSharp\\GenericsApp\\GenericsApp\\GenericsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\GenericsApp\\GenericsApp\\GenericsApp.csproj",
+        "projectUniqueName": "C:\\workspace\\learningCSharp\\GenericsApp\\GenericsApp\\GenericsApp.csproj",
         "projectName": "GenericsApp",
-        "projectPath": "C:\\workspace\\GenericsApp\\GenericsApp\\GenericsApp.csproj",
+        "projectPath": "C:\\workspace\\learningCSharp\\GenericsApp\\GenericsApp\\GenericsApp.csproj",
         "packagesPath": "C:\\Users\\felipe.basso\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\GenericsApp\\GenericsApp\\obj\\",
+        "outputPath": "C:\\workspace\\learningCSharp\\GenericsApp\\GenericsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe.basso\\AppData\\Roaming\\NuGet\\NuGet.Config",
