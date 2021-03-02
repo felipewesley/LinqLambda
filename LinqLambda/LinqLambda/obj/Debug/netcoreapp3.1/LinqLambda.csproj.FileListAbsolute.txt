@@ -1,0 +1,13 @@
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.exe
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.deps.json
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.json
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.runtimeconfig.dev.json
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.dll
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\bin\Debug\netcoreapp3.1\LinqLambda.pdb
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.csprojAssemblyReference.cache
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfoInputs.cache
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.AssemblyInfo.cs
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.csproj.CoreCompileInputs.cache
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.dll
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.pdb
+C:\workspace\learningCSharp\LinqLambda\LinqLambda\obj\Debug\netcoreapp3.1\LinqLambda.genruntimeconfig.cache
