@@ -1,5 +1,0 @@
-Fazer um programa para ler um numero inteiro N e depois os dados (id, nome e salario) de N funcionarions. Não deve haver repetição de id.
-
-Em seguida, efetuar o aumento de X por cento no salario de um determinado funcionario. Para isso, o programa deve ler um id e o valor de X. Se o id informado nao existir, mostrar uma mensagem e abortar a operaçao. Ao final, mostrar a listagem atualizada dos funcionarios, confirme exemplos.
-
-Lembre-se de aplicar a tecnica de encapsulamento  para nao permitir que o salario possa ser mudado livremente. Um salario so pode ser aumentado com base em uma operaçao de aumento por porcentagem dada.	
