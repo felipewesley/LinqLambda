@@ -1,6 +1,6 @@
 # LinqLambda
 
-Project developed during the learning proccess about Linq and Lambda expressions.
+Project developed during the learning proccess about Linq and Lambda expressions.  
 
 ### Features
 
